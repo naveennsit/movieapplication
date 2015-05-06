@@ -1,0 +1,53 @@
+MIDlet-Name: clipper_identi
+MIDlet-Version: 2.2
+MIDlet-Vendor: First Group
+MIDlet-Jar-URL: clipper_identi.jar
+MIDlet-Jar-Size: 1864111
+MIDlet-Description: Clipper
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: Clipper,img/clipper_logo.png,
+RIM-MIDlet-Flags-1: 0
+Manifest-Version: 1.0
+RIM-COD-URL: Clipper.cod
+RIM-COD-Size: 67256
+RIM-COD-Creation-Time: 1430283963
+RIM-COD-Module-Name: Clipper
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_barcodelib,net_rim_json_org,net_rim_database,net_rim_os,net_rim_bbapi_mailv2,net_rim_locationapi,net_rim_ui_api,net_rim_amms
+RIM-COD-SHA1: 8e 09 66 6f 94 4d cd a4 03 64 03 11 93 a0 41 52 74 78 98 d6
+RIM-COD-URL-1: Clipper-1.cod
+RIM-COD-Size-1: 74916
+RIM-COD-SHA1-1: 92 e4 99 53 bb 34 12 c9 e9 dc 58 78 b1 9c 48 f5 af f7 e6 47
+RIM-COD-URL-2: Clipper-2.cod
+RIM-COD-Size-2: 66364
+RIM-COD-SHA1-2: 4e de fb ee 74 52 c2 e8 35 57 43 7e ad dc 4b 68 18 f1 6d 63
+RIM-COD-URL-3: Clipper-3.cod
+RIM-COD-Size-3: 65596
+RIM-COD-SHA1-3: a7 16 36 71 d9 3d c7 51 ed 86 51 e0 df f6 9e 82 5e 47 ff eb
+RIM-COD-URL-4: Clipper-4.cod
+RIM-COD-Size-4: 68240
+RIM-COD-SHA1-4: 38 3a 2d 45 06 59 38 22 ca 28 67 0c 66 13 87 a1 db 1f 8a d3
+RIM-COD-URL-5: Clipper-5.cod
+RIM-COD-Size-5: 61608
+RIM-COD-SHA1-5: 3b 82 58 13 e6 f3 bd 25 68 cb ed b6 bb 82 18 1b a6 a6 3d 70
+RIM-COD-URL-6: Clipper-6.cod
+RIM-COD-Size-6: 61932
+RIM-COD-SHA1-6: d1 18 35 65 7f db 7d cd bc 68 62 40 95 12 a2 13 74 4c 7e 62
+RIM-COD-URL-7: Clipper-7.cod
+RIM-COD-Size-7: 57132
+RIM-COD-SHA1-7: 26 07 ee 36 7b da 29 bc 88 3e 6d 37 21 12 3c fe 66 2d de bf
+RIM-COD-URL-8: Clipper-8.cod
+RIM-COD-Size-8: 61924
+RIM-COD-SHA1-8: ce 5f a8 30 39 39 04 e7 04 41 cd e4 e2 cc 78 3c b3 5e 00 cc
+RIM-COD-URL-9: Clipper-9.cod
+RIM-COD-Size-9: 66148
+RIM-COD-SHA1-9: 8f 1a ed 36 15 25 37 ac e9 7d 6b b4 9a a3 99 fd 17 b7 64 25
+RIM-COD-URL-10: Clipper-10.cod
+RIM-COD-Size-10: 25800
+RIM-COD-SHA1-10: 6e 6f 5a 86 0c 6c 4a ce d7 ca 34 e1 b6 b9 6a a1 86 0f a6 f9
+RIM-COD-URL-11: Clipper-11.cod
+RIM-COD-Size-11: 41440
+RIM-COD-SHA1-11: c5 ac d0 e4 f9 41 d1 8c 84 43 c1 a1 d5 b3 ca 31 a8 47 b6 5e
+RIM-COD-URL-12: Clipper-12.cod
+RIM-COD-Size-12: 69584
+RIM-COD-SHA1-12: 5c eb aa a5 fa da 10 fc 3c 06 09 c3 9f 31 f1 3e ab 40 53 a4

@@ -1,0 +1,31 @@
+<loader version="1.0">
+	<application id="Clipper">
+		<name >
+			Clipper
+		</name>
+		<description >
+			Clipper
+		</description>
+		<version >
+			2.2
+		</version>
+		<vendor >
+			First Group
+		</vendor>
+		<copyright >
+			Copyright (c) 2015 First Group
+		</copyright>
+		<fileset Java="1.55" _blackberryVersion="[7.1.0)">
+			<directory >
+				7.1.0
+			</directory>
+			<files >
+				Clipper.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>
