@@ -17,7 +17,7 @@
 		</copyright>
 		<fileset Java="1.55" _blackberryVersion="[7.1.0)">
 			<directory >
-				7.1.0
+				7.1.2
 			</directory>
 			<files >
 				Clipper.cod
